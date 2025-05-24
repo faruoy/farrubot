@@ -1,1 +1,4 @@
-hi man this is me setting up git facing so many errors 
+hi man this is me setting up git facing so many errors
+
+
+finally integrated the ubuntu with git enjoying the errors 
