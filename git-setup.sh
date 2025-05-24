@@ -39,3 +39,13 @@ EOF
 chmod +x ~/push
 echo 'Now you can run your push script using: ~/push "your message"'
 
+
+Ask repo URL and clone
+echo "Enter your repo SSH URL (like git@github.com:username/repo.git):"
+read repo_url
+git clone "$repo_url"
+
+# Extract folder name from URL
+folder_name=$(basename "$repo_url" .git)
+cd "$folder_name"
+echo "Moved into project folder: $folder_name"
