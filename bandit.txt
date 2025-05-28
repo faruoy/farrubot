@@ -1,0 +1,39 @@
+level 1 pwd: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+level 2 pwd: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx dash files '-' open as vim or nano with full paths like cat ./- \or cat < - 
+
+level 3 pwd: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx here the file have spaces btw them to access that uses double quotations or /
+
+level 4 pwd: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ hidden file ls -a
+
+level 5 pwd: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw 
+
+level 6 pwd: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG 
+  learnt the find command which helps us to find our specific file  like in this we have to find the a specific file of size 1033 by  bytes and not executable so we run the command                    find -type f -size 1033c -exec file {} \; | grep "ASCII text"      here c=bytes ;; grep is for search ;;{} is to replace 
+
+level 7 pwd: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+ mann this was huge 
+  learnt the deeper insights of find commands also how to use -user -group grep -e & grep -E  2>/dev/null  
+
+level 8 pwd : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+ firstly printed the output of that file and then ran grep 
+
+level 8 pwd : 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+ 
+ sort , uniq -d , uniq -u
+
+level 9 pwd : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+  strings for extracting human readable data and grep "^===="       filter out data  & head which shows the first 10 lines
+
+level 10 pwd : dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+  
+  base64 , base64 -d for decode convert the binary file to text     file
+
+level 11 pwd : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+  
+  tr is used to small case - big and tr -d to delete specifics and  tr -s to squeeze multiple things to only one like tr -s ' ' also  learnt ROT13 like tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
+level 12 pwd :        
