@@ -1,3 +1,6 @@
+ssh -p 2220 bandit12@bandit.labs.overthewire.org
+
+
 level 1 pwd: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 level 2 pwd: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx dash files '-' open as vim or nano with full paths like cat ./- \or cat < - 
