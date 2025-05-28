@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ssh -p 2220 bandit12@bandit.labs.overthewire.org
+=======
+>>>>>>> 00247c6 (Auto commit)
 
 
 level 1 pwd: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
