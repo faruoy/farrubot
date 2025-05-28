@@ -2,4 +2,5 @@ IDOR:
 
 signs:
   *> response is leaking out sensitive data
-  *> 
+  *>
+
