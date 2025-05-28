@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Pull latest changes from remote branch 'master'
+git pull origin master
+
+# Add all changes
+git add .
+
+# Commit with message passed as argument, default "Auto commit"
+commit_message=${1:-"Auto commit"}
+
+git commit -m "$commit_message"
+
+# Push to remote 'master' branch
+git push origin master
+
