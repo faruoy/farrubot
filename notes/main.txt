@@ -1,6 +1,32 @@
 IDOR:
 
 signs:
-  *> response is leaking out sensitive data
-  *>
+	*> response is leaking out sensitive data
+	*> 
+	*>
+	*>
+	*>
+	*>
 
+
+checks:
+	*> identify how the server is identifying you? it may be an id       
+	*> 
+	*> try to find user ids or traces of other users ex:reviews
+	*>	try to edit credentials and read the responses and randomly 		make changes to ids also POST <--> GET & GET <--> POST 	
+	*> 
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
+	*>
