@@ -1,0 +1,16 @@
+# STARBUCKS SG IDOR TESTING
+	
+	
+	## POINTERS
+
+1. CSRF Token is having http true flag onn but it's not the core cookie
+
+2. Session flag is onn on CSRF token 
+
+
+	## ACCOUNTS
+
+haekerone@gmail.com
+
+haekerone1@gmail.com
+	
