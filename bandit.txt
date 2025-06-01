@@ -1,14 +1,11 @@
-<<<<<<< HEAD
 ssh -p 2220 bandit12@bandit.labs.overthewire.org
-=======
->>>>>>> 00247c6 (Auto commit)
 
 
 level 1 pwd: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 level 2 pwd: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx 
 
-dash files '-' open as vim or nano with full paths like cat ./- \or cat < - 
+Note : dash files '-' open as vim or nano with full paths like cat ./- \or cat < - 
 
 level 3 pwd: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
@@ -49,4 +46,4 @@ level 11 pwd : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
   
   tr is used to small case - big and tr -d to delete specifics and  tr -s to squeeze multiple things to only one like tr -s ' ' also  learnt ROT13 like tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
-level 12 pwd :         
+level 12 pwd :       
