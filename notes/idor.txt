@@ -3,7 +3,7 @@
 	
 	## POINTERS
 
-1. CSRF Token is having http true flag onn but it's not the core cookie
+1. CSRF Token is having http true flag onn but it's not the core cookie   well it seems as of now while testing
 
 2. Session flag is onn on CSRF token 
 
@@ -15,3 +15,4 @@ haekerone@gmail.com
 
 haekerone1@gmail.com
 	
+
