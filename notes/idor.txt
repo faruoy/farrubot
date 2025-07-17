@@ -22,4 +22,7 @@ haekerone1@gmail.com
 
 since the website i am working up on this belong to the singapore but the thing is that i am familiar with the websites of india which mostly uses react and some python frameworks but i am not familiar with what starbucks singapore uses well we can see that with a extension wjich shows all the frameworks and technologies used in that website ....
 	
+the thing is that i am new to this bug bounty i saw a video of someone who is not so famous on yt who was doing some tests on starbucks sa website so i directly copied this code from him and i am trying to familiarise with the concepts of bug bounty so i can independently test on real world websites also it requires a lot of dedication and you need to invest your time in this 
 
+
+Also there a person probably named shreyas chwan in X platform who usually posts stuff regarding this i saw him noton
