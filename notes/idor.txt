@@ -19,5 +19,7 @@ Cookies : Auth Token , which is not very important means http only flag is off
 also Session token which have http only
 
 haekerone1@gmail.com
+
+since the website i am working up on this belong to the singapore but the thing is that i am familiar with the websites of india which mostly uses react and some python frameworks but i am not familiar with what starbucks singapore uses well we can see that with a extension wjich shows all the frameworks and technologies used in that website ....
 	
 
