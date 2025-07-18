@@ -24,21 +24,3 @@ haekerone1@gmail.com
 
 
 
-diffrent 
-
-well there is a person shreyas chawan he is currently a bug bounty hunter i usually read his blogs on notion and also i read some one else posts on medium and well there is a blog of his journey on notion and i read that 
-
-i will briefly explain what he actually tried to say 
-
-1. he told to be familiar with the linux commands and practice that over the bandit website and also command prompt website this will make you familiar with the various linux commands 
- (NOTE : Dont try to be perfect with things just move onn when you seems that you are able to do most of the problems)
-
-2. The second thing he told is be perfect with the bash scripting which surely help i personally know this i will share some thing with you when my brother was hunting on big basket website he found out a vuln and he then reported to the security department and that vuln was marked as solved and he also received the bounty well i wont share the actual price but what he got was amazing in terms of what we usually get in india so when he shared how he did that thing he showed me the script which was made by chat gpt 
-
-
-3. i know that most indian companies dont pay much when it comes to the bug bounty they sometimes mark the bug as valid but dont pay any bouty 
-
-4.  the foremost thing he shared was read the book named well i dont remember the name but that book was the core was bug bounty which contains various bugs and vulns  
-
-he told to atleast learn one or two vulns and work upon them
-
