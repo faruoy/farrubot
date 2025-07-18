@@ -38,5 +38,7 @@ i will briefly explain what he actually tried to say
 
 3. i know that most indian companies dont pay much when it comes to the bug bounty they sometimes mark the bug as valid but dont pay any bouty 
 
-4.  the foremost thing he shared was read the book named well i dont remember the name but that book was the core was bug bounty which contains how one's mindset  
+4.  the foremost thing he shared was read the book named well i dont remember the name but that book was the core was bug bounty which contains various bugs and vulns  
+
+he told to atleast learn one or two vulns and work upon them
 
