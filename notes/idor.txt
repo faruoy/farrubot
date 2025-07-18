@@ -20,9 +20,23 @@ also Session token which have http only
 
 haekerone1@gmail.com
 
-since the website i am working up on this belong to the singapore but the thing is that i am familiar with the websites of india which mostly uses react and some python frameworks but i am not familiar with what starbucks singapore uses well we can see that with a extension wjich shows all the frameworks and technologies used in that website ....
-	
-the thing is that i am new to this bug bounty i saw a video of someone who is not so famous on yt who was doing some tests on starbucks sa website so i directly copied this code from him and i am trying to familiarise with the concepts of bug bounty so i can independently test on real world websites also it requires a lot of dedication and you need to invest your time in this 
 
 
-Also there a person probably named shreyas chwan in X platform who usually posts stuff regarding this i saw him noton
+
+
+diffrent 
+
+well there is a person shreyas chawan he is currently a bug bounty hunter i usually read his blogs on notion and also i read some one else posts on medium and well there is a blog of his journey on notion and i read that 
+
+i will briefly explain what he actually tried to say 
+
+1. he told to be familiar with the linux commands and practice that over the bandit website and also command prompt website this will make you familiar with the various linux commands 
+ (NOTE : Dont try to be perfect with things just move onn when you seems that you are able to do most of the problems)
+
+2. The second thing he told is be perfect with the bash scripting which surely help i personally know this i will share some thing with you when my brother was hunting on big basket website he found out a vuln and he then reported to the security department and that vuln was marked as solved and he also received the bounty well i wont share the actual price but what he got was amazing in terms of what we usually get in india so when he shared how he did that thing he showed me the script which was made by chat gpt 
+
+
+3. i know that most indian companies dont pay much when it comes to the bug bounty they sometimes mark the bug as valid but dont pay any bouty 
+
+4.  the foremost thing he shared was read the book named well i dont remember the name but that book was the core was bug bounty which contains how one's mindset  
+
