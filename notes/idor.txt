@@ -1,4 +1,4 @@
-# STARBUCKS SG IDOR TESTING
+# STARBUCKS Singapore IDOR TESTING (min 100 bucks) 
 	
 	
 	## POINTERS
@@ -19,6 +19,16 @@ Cookies : Auth Token , which is not very important means http only flag is off
 also Session token which have http only
 
 haekerone1@gmail.com
+
+
+
+
+
+
+
+
+
+
 
 
 
