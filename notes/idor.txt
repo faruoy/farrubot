@@ -1,6 +1,5 @@
 # STARBUCKS Singapore IDOR TESTING (min 100 bucks) 
 	
-	
 	## POINTERS
 
 1. CSRF Token is having http true flag onn but it's not the core cookie   well it seems as of now while testing
@@ -26,7 +25,8 @@ haekerone1@gmail.com
 # earlier i use to think that practical labs for finding the bugs are not at all worth it than i realised that portswigger labs are worth trying as they are made by the burp community and every year they publish the web application handbook now they stop publishing the web application hackers handbook now they uploaded the data in the port swigger lab all labs 
 
 
-# my plan is that i will complete all those labs and then enter into the bug bounty so that i can do well in the real life targets 
+# my plan is that i will complete all those labs and then enter into the bug bounty so that i can do well in the
+real life targets 
 
 
 # i think labs allows us to think deeper and there are also mystery challenges in which you are given just a test website or anything without any hints and u need to find out bugs or exploit that or create a alert pop up using js
@@ -44,7 +44,19 @@ haekerone1@gmail.com
 dont include any hints about the target neither anything i didnt saw any yet but i know that you will be given an ip to exploit the machine just like the oscp exam in which you are given with the ip address of the machine and you need to exploit the machine in moreover i think 3 days 
 
 
-# the price of the oscp exam is around 
+# the price of the oscp exam is around 2000 dollars , around
+inr 172,000 
+
+
+# so i am thinking that i wont be preparing for the oscp right now i will be focusing on bug bounty after some threshold amount i might think about giving oscp
+
+# my plan as of now i will keep my target on the bb website ( big basket) well they pay minimal bounty according to the indian standards like i know a guy who took an idor on big basket website he was awarded some 300 usd i think thats very low in terms of the work done 
+
+
+# they (bb) didnt reveal the bounty on their website and also flipkart pays around 200 usd for low pII that's good according to the indian standards also the avg bounty is around 550 usd(inr 47,300) to 800 usd (inr 
+ 68,800 )
+
+# so flipkart might be the best indian company to start with
 
 
 
