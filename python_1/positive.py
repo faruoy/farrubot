@@ -41,10 +41,11 @@
 #    Tuples can be indexed same like lists
 #    Uses: We can use tuples when we dont have to change the data further.
 #Example:
-my_tuple=(1,'hello',2,3)
-print(my_tuple[1])
+#my_tuple=(1,'hello',2,3)
+#print(my_tuple[1])
 
-
+# DICTIONARY {}
+    Dictionary are 
 
 
 
