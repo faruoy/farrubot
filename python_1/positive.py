@@ -22,8 +22,6 @@
 #guess(n)
 
 3Q) Compare and contrast list, tuple, and dictionary with examples.
-
-a=[1,2,3,4]
-print(a[0])
+ans: Lists : Lists in python are the data types which are same like arrays in 
 
 
