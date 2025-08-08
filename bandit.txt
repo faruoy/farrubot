@@ -11,5 +11,5 @@ level 4 : password is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 level 5 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
           human readable file can be searched by cat ./*
 
-level 6 : password is 
+level 6 : password is  
 
