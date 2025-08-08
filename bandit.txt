@@ -4,12 +4,12 @@ level 1 : password is ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 level 2 : password is 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
             ( - files should be done using ./-file)
-level 3 : password is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ         ( for spaced filenames either use "" or \ between spaces)
-level 4 : password is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
-          for opening those dashed files use cat .* or vim .
 
-level 5 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-          human readable file can be searched by cat ./*
+level 3 : password is MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx  
 
-level 6 : password is  
+level 4 : password is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ    
 
+level 5 : password is 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw  cat ./-file name
+
+
+level 6 : password is 
