@@ -1,4 +1,4 @@
-level 0 : ssh [-p ] username@address
+level 0 : 	ssh [-p ] username@address
 
 level 1 : password is ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
