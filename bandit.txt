@@ -12,4 +12,21 @@ level 4 : password is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 level 5 : password is 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw  cat ./-file name
 
 
-level 6 : password is 
+level 6 : password is HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+   used ls -la ***** | grep 
+
+level 7 : password is morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj 
+  used find -user ""  -group "" -size 33c
+
+level 8 : password is 
+
+
+
+
+
+
+ls 
+ OUTPUT STREAM1
+ ERROR STREAM2
+
+ /dev/null
