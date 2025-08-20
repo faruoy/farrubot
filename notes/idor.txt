@@ -1,4 +1,4 @@
-# STARBUCKS Singapore IDOR TESTING (min 100 bucks) 
+# STARBUCKS Singapore IDOR TESTING (the money for this is ----)) 
 	
 	## POINTERS
 
@@ -19,3 +19,13 @@ Cookies : Auth Token , which is not very important means http only flag is off
 also Session token which have http only
 
 haekerone1@gmail.com
+
+
+i stoppped doing idor right now i am learning insecure deserialization technique for exploiting websites in bug bounty well this technique may not be the best of the top 10 owasp techniques for web exploitation but this may be the best starting point as of now as beginner ,,,
+
+
+
+so till now i have learnt basic things like what is serialization 
+
+
+
