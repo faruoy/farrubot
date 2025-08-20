@@ -12,7 +12,7 @@ signs:
 checks:
 	*> identify how the server is identifying you? it may be an id       
 	*> ok
-	*> try to find user ids or tracces of other users ex:reviews
+	*> try to find user ids or traces of other users ex:reviews
 	*>	try to edit credentials and read the responses and randomly make changes to  ids also POST <--> GET & GET <--> POST 	
 	*> 
 	*>
@@ -21,7 +21,7 @@ checks:
 	*>
 	*>
 	*>
-	*>
+	*>
 	*>
 	*>
 	*>
