@@ -1,6 +1,1 @@
-
-ksner
-
-rkrrkff
-
-rrkfkf
+highlight Normal ctermbg=black ctermfg=white guibg=NONE guifg=white
