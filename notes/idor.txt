@@ -1,6 +1,6 @@
 # STARBUCKS Singapore IDOR TESTING (the money for this is ----)) 
     # STARBUCKS Singapore IDOR TESTING (min 100 bucks) 
-	
+
 	## POINTERS
 
 1. CSRF Token is having http true flag onn but it's not the core cookie   well it seems as of now while testing
