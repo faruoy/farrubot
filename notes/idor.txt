@@ -28,5 +28,19 @@ i stoppped doing idor right now i am learning insecure deserialization technique
 
 so till now i have learnt basic things like what is serialization 
 
+i just now discovered how the target tab works in the burp suite i was in the wsa lab where i got a target to exploit a website and delete a morale.txt file from a user whose name is carlos i was figuring out from the start how to solve this lab i just saw a solution to this where it states that this lab can be solved via target tab 
 
+
+i also just discovered about the site map where all the in scope websites are opened up more so that the exploiter can able to see all the files in the website is pointing towards to , like i just saw a libs folder which was pointing to a file and i knew that appending a filename with tilte ~ can give me a backup file which developer might left behind 
+
+
+
+so as of now i saw the half of the solution , and i am planning not to see the whole solution , i will delete the morale.txt file carlos home directory without seeing the solution , inshallah if allah wills 
+
+
+
+till now i got access to the wbsite sourcecode by appending the tilte to the filename libs/CustomTemplate.php~ this is the name of the file , 
+
+
+so alhamdulillah i got the access of the source code of the website by appending the tilte ~ symbol to the filename and i can read the whole codebase of the wbsite 
 
