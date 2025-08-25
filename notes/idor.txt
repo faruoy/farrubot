@@ -44,3 +44,218 @@ till now i got access to the wbsite sourcecode by appending the tilte to the fil
 
 so alhamdulillah i got the access of the source code of the website by appending the tilte ~ symbol to the filename and i can read the whole codebase of the wbsite 
 
+i even appended the tilde ~ operator to the filename which gave me the access to the source code of the file and the folder in which the was in was libs/CustomTemplate.php file which contained the source code and i only added a tilde ~ operator to the Customtemplate file namely /libs/CustomTemplate.php~ which gave me the output as 
+
+
+### source code of the website 
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href=/resources/labheader/css/academyLabHeader.css rel=stylesheet>
+        <link href=/resources/css/labsEcommerce.css rel=stylesheet>
+        <title>Arbitrary object injection in PHP</title>
+    </head>
+    <body>
+        <script src="/resources/labheader/js/labHeader.js"></script>
+        <div id="academyLabHeader">
+            <section class='academyLabBanner'>
+                <div class=container>
+                    <div class=logo></div>
+                        <div class=title-container>
+                            <h2>Arbitrary object injection in PHP</h2>
+                            <a class=link-back href='https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-arbitrary-object-injection-in-php'>
+                                Back&nbsp;to&nbsp;lab&nbsp;description&nbsp;
+                                <svg version=1.1 id=Layer_1 xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x=0px y=0px viewBox='0 0 28 30' enable-background='new 0 0 28 30' xml:space=preserve title=back-arrow>
+                                    <g>
+                                        <polygon points='1.4,0 0,1.2 12.6,15 0,28.8 1.4,30 15.1,15'></polygon>
+                                        <polygon points='14.3,0 12.9,1.2 25.6,15 12.9,28.8 14.3,30 28,15'></polygon>
+                                    </g>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class='widgetcontainer-lab-status is-notsolved'>
+                            <span>LAB</span>
+                            <p>Not solved</p>
+                            <span class=lab-status-icon></span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div theme="ecommerce">
+            <section class="maincontainer">
+                <div class="container">
+                    <header class="navigation-header">
+                        <section class="top-links">
+                            <a href=/>Home</a><p>|</p>
+                            <a href="/my-account?id=wiener">My account</a><p>|</p>
+                        </section>
+                    </header>
+                    <header class="notification-header">
+                    </header>
+                    <section class="ecoms-pageheader">
+                        <img src="/resources/images/shop.svg">
+                    </section>
+                    <section class="container-list-tiles">
+                        <div>
+                            <img src="/image/productcatalog/products/12.jpg">
+                            <h3>Hologram Stand In</h3>
+                            <img src="/resources/images/rating3.png">
+                            $10.28
+                            <a class="button" href="/product?productId=1">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/52.jpg">
+                            <h3>Hydrated Crackers</h3>
+                            <img src="/resources/images/rating4.png">
+                            $51.23
+                            <a class="button" href="/product?productId=2">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/42.jpg">
+                            <h3>Pest Control Umbrella</h3>
+                            <img src="/resources/images/rating3.png">
+                            $6.59
+                            <a class="button" href="/product?productId=3">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/53.jpg">
+                            <h3>High-End Gift Wrapping</h3>
+                            <img src="/resources/images/rating2.png">
+                            $24.57
+                            <a class="button" href="/product?productId=4">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/67.jpg">
+                            <h3>Your Virtual Journey Starts Here</h3>
+                            <img src="/resources/images/rating2.png">
+                            $52.41
+                            <a class="button" href="/product?productId=5">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/66.jpg">
+                            <h3>Paddling Pool Shoes</h3>
+                            <img src="/resources/images/rating5.png">
+                            $25.73
+                            <a class="button" href="/product?productId=6">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/1.jpg">
+                            <h3>Eggtastic, Fun, Food Eggcessories</h3>
+                            <img src="/resources/images/rating2.png">
+                            $40.11
+                            <a class="button" href="/product?productId=7">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/22.jpg">
+                            <h3>Babbage Web Spray</h3>
+                            <img src="/resources/images/rating1.png">
+                            $19.50
+                            <a class="button" href="/product?productId=8">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/7.jpg">
+                            <h3>Conversation Controlling Lemon</h3>
+                            <img src="/resources/images/rating2.png">
+                            $90.73
+                            <a class="button" href="/product?productId=9">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/59.jpg">
+                            <h3>Inflatable Holiday Home</h3>
+                            <img src="/resources/images/rating3.png">
+                            $29.10
+                            <a class="button" href="/product?productId=10">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/43.jpg">
+                            <h3>First Impression Costumes</h3>
+                            <img src="/resources/images/rating4.png">
+                            $4.98
+                            <a class="button" href="/product?productId=11">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/23.jpg">
+                            <h3>Sprout More Brain Power</h3>
+                            <img src="/resources/images/rating4.png">
+                            $17.51
+                            <a class="button" href="/product?productId=12">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/9.jpg">
+                            <h3>Fur Babies</h3>
+                            <img src="/resources/images/rating2.png">
+                            $21.05
+                            <a class="button" href="/product?productId=13">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/21.jpg">
+                            <h3>Snow Delivered To Your Door</h3>
+                            <img src="/resources/images/rating4.png">
+                            $29.80
+                            <a class="button" href="/product?productId=14">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/41.jpg">
+                            <h3>The Trapster</h3>
+                            <img src="/resources/images/rating4.png">
+                            $69.77
+                            <a class="button" href="/product?productId=15">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/28.jpg">
+                            <h3>Vintage Neck Defender</h3>
+                            <img src="/resources/images/rating2.png">
+                            $57.84
+                            <a class="button" href="/product?productId=16">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/29.jpg">
+                            <h3>Waterproof Tea Bags</h3>
+                            <img src="/resources/images/rating4.png">
+                            $14.93
+                            <a class="button" href="/product?productId=17">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/15.jpg">
+                            <h3>Pet Experience Days</h3>
+                            <img src="/resources/images/rating4.png">
+                            $71.12
+                            <a class="button" href="/product?productId=18">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/31.jpg">
+                            <h3>Couple&apos;s Umbrella</h3>
+                            <img src="/resources/images/rating2.png">
+                            $95.88
+                            <a class="button" href="/product?productId=19">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/61.jpg">
+                            <h3>Safety First</h3>
+                            <img src="/resources/images/rating3.png">
+                            $56.82
+                            <a class="button" href="/product?productId=20">View details</a>
+                        </div>
+                    </section>
+                    <!-- TODO: Refactor once /libs/CustomTemplate.php is updated -->
+                </div>
+            </section>
+            <div class="footer-wrapper">
+            </div>
+        </div>
+    </body>
+</html>
+
+
+
+## now the target is to learn this magic methods which are used by this code snippet so i dont even know how this magic mehtods works also i dont even know what language in which the websites source code is written 
+
+
+i will take help from the chat gpt as well as my collegues
+
+
+
+
