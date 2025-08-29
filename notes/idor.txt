@@ -1,5 +1,9 @@
+<<<<<<< HEAD
             # STARBUCKS Singapore IDOR TESTING (the money for this is ----)) 
     # STARBUCKS Singapore IDOR TESTING (min 100 bucks) 
+=======
+        #STARBUCKS Singapore IDOR TESTING (the money for this is ----)) 
+>>>>>>> 5d7d894 (Auto commit)
 
 	## POINTERS
 
@@ -254,8 +258,30 @@ i even appended the tilde ~ operator to the filename which gave me the access to
 ## now the target is to learn this magic methods which are used by this code snippet so i dont even know how this magic mehtods works also i dont even know what language in which the websites source code is written 
 
 
-i will take help from the chat gpt as well as my collegues
+the thing is that as of now i got the access to the website source code just by appending a tilde~ operator to the file name which was in the libs folder 
 
+so i got the file in the target tab of burpsuite and i sent it to the repeater tab and did the extraction of source code
+
+## till now i didnt solved that lab , laying down with just source code , also the thing is that i am not at all familiar with the php language also the website source code is written in the php language and somewhat java ,, though i am familiar with the serialization concept 
+
+
+but i am not familiar with the php as a whole ,,,
+
+
+## also i am solving the labs from the port swigger lab Also called WSA web security academy
+
+# the vuln i am currently learning is insecure deserialization which is server side vulnerability 
+
+# also there are broadly two types of vuln one is server side and the other is the client side vuln ,, usually the server side vuln are complicated as it requires the deep understanding of concepts on the other hand the client side vuln are more easy compared to the server side
+
+
+
+## so this insecure deserialization comes in the server side vuln which involves the server side languagues like java python , ruby and somewhat php
+
+
+# also the thing is that the process of serialization in php is human readable where as in the java it involves the binary digit which is complex in reading 
+
+### my plan is to learn insecure deserialization as of now after this i will start the real website targets like
 
 
 
