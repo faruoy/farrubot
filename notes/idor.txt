@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+    <<<<<<< HEAD
             # STARBUCKS Singapore IDOR TESTING (the money for this is ----)) 
     # STARBUCKS Singapore IDOR TESTING (min 100 bucks) 
 =======
@@ -285,3 +285,4 @@ but i am not familiar with the php as a whole ,,,
 
 
 
+At line 23 what i had said , i changed my decision this insecure deserialization may not be the techniques out there specially for beginners , so i am taking my words back 
