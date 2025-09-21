@@ -1,43 +1,5 @@
-IDOR:
-
-signs:
-	*> response is leaking out sensitive data
-	*> 
-	*>
-	*>
-	*>
-	*>
+hi
 
 
-checks:
-	*> identify how the server is identifying you? it may be an id       
-	*> ok
-	*> try to find user ids or traces of other users ex:reviews
-	*>	try to edit credentials and read the responses and randomly make changes to  ids also POST <--> GET & GET <--> POST 	
-	*> 
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
-	*>
+this is farhan , i am currently learning the insecure deserialization technique for exploiting the websites there are bunch of techniques from which i chose this one
 
-currently i stop exploiting 
-IDOR's and started insecure Deserialization from Port Swigger academy (WSA) 
-
-till now i have completed about the Serialization and Deserialization of Data basically serialization of data means converting the large blocks of data structures into Small bytes of data
-
-
-such that those small bytes of data can easily be transsferred via network as well as stored as a file , also can be stored in the memory of the server so basically these are the benefits of serilization of data 
-
-
-but these conversion of data to small bytes seems simple and easy but its exploitable via third party tools so there comes the insecure deserializing of data 
