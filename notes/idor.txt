@@ -1,4 +1,11 @@
 starting access control on 27th oct 2025 
 
-done almost 3 labs and still learning
+done almost 4-5 labs and still learning
+
+the thing is that i completed almost the apprentice labs and i am currently in practicioner labs 
+
+
+there are almost 10-12 labs in access control and IDOR combined 
+
+so will start exploiting the dummy webservers....
 
