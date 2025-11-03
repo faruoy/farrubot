@@ -9,6 +9,6 @@ done almost 6 labs the lab was the practitioner and it was about the escalation 
 * and then i changed the post request to postx after i entered the send request button it showed unauthorized , than i right clicked and then i changed the request method to get it automatically changed the parameters i than changed the username to wiener and send the request
 
 
-* this is how i solved the lab
+* this is how i solved the lab 
 
 
