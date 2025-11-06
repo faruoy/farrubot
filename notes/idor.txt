@@ -1,14 +1,1 @@
-starting access control vulnerability on 27th oct 2025 
-
-done almost 6 labs the lab was the practitioner and it was about the escalation of priviledges in which i have to promote the wiener to admin 
-
-* i started solving this lab by logging in with admin credentials and then navigating to the admin panel and then promoting the user carlos to admin , after that i copied that burp request to the repeater 
-
-* i logged out of the admin account and then logged in using the traditional wiener and peter account , and i copied the logged in request to the repeater and then changed the session cookie of admin to weiner account 
-
-* and then i changed the post request to postx after i entered the send request button it showed unauthorized , than i right clicked and then i changed the request method to get it automatically changed the parameters i than changed the username to wiener and send the request
-
-
-* this is how i solved the lab 
-
-
+Notes for IDOR
