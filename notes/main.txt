@@ -1,5 +1,0 @@
-hi
-
-today is 22nd sep 2025 , i started learning insecure deserialization from today onwards.
-
-basically its a technique involving cookies to exploit various targets. recently i solved a lab in which i was given 
