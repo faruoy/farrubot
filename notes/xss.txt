@@ -1,0 +1,10 @@
+Date:13th Nov
+Status: completed Access controls (IDOR)
+Target: Currently testing on BB big basket website
+Vulnerability: Only looking for IDOR as i am only familiar with 
+ 	       IDOR.
+
+
+started learning XSS (Cross site scripting) around 30 labs
+
+
