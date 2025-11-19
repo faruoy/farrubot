@@ -8,3 +8,6 @@ Vulnerability: Only looking for IDOR as i am only familiar with
 started learning XSS (Cross site scripting) around 30 labs
 
 
+the first one is reflected xss which is not saved on the server instead it's about injecting the payload in the users workspace making it vulnerable to various js exploits 
+
+
