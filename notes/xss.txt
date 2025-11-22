@@ -1,13 +1,16 @@
+Update: 22nd Nov
+
+................
+
+
 Date:13th Nov
 Status: completed Access controls (IDOR)
 Target: Currently testing on BB big basket website
-Vulnerability: Only looking for IDOR as i am only familiar with 
- 	       IDOR.
+Vulnerability: Only looking for IDOR as i am only familiar with IDOR.
 
 
 started learning XSS (Cross site scripting) around 30 labs
 
 
-the first one is reflected xss which is not saved on the server instead it's about injecting the payload in the users workspace making it vulnerable to various js exploits 
 
 
