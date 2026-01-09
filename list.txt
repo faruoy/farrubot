@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Musaddiq (✓)
 Farhan (✓)  /inshallah ready
 Ahmed  ( )
@@ -8,6 +9,18 @@ Younus (✓)  /insh'allah ready
 Hasham ()
 Affan  ()  
 Fahad  () /Village
+=======
+Musaddiq ( )
+Farhan (✓)
+Ahmed  ()
+Fasi ()
+Omer ()
+Abdul Rahman (✓) 
+Younus ()
+Hasham ()
+Affan  ()
+Fahad  ()
+>>>>>>> 0831b3f (Auto commit)
 Mirza  ()
 Saif   ()  /Shaadi
 Anas   ()
