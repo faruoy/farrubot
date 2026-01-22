@@ -1,17 +1,17 @@
-Musaddiq (✓)
+Musaddiq ()
 Farhan (✓)  /inshallah ready
 Ahmed  ( )
 Fasi ()
 Omer ( )
-Abdul Rahman ()
+Abdul Rahman (✓) 2 days
 Younus (✓)  /insh'allah ready
-Hasham ()
-Affan  ()  
+Hasham () / home shifting
+Affan  () / home shifting
 Fahad  () /Village
-Mirza  ()
+Mirza  () / may be for 1 day
 Saif   ()  /Shaadi
 Anas   ()
-Shafeeq ()
+Shafeeq () 
 Lais   ()
 Sameer ()
 Afnan  ()
@@ -19,14 +19,18 @@ Shaji Bhai ( )
 Abdul Azeem Bhai ( )
 Naveed ( )
 Zeeshan ()
+<<<<<<< HEAD
 Uzair ( ) 
+=======
+Uzair (✓) with Abdul Rahman
+>>>>>>> 4ac4829 (Auto commit)
 
 
 Other Divisions
 Faiz Bhai Law ()
 Absar Div 2 ()
 Rayyan Div 7 ()
-Junaid (✓)
+Junaid (✓) 
 Qasim ()
 
 Deccan College
