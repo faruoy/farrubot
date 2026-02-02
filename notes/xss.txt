@@ -1,3 +1,22 @@
+Update : 2nd Feb 2026
+
+Spent around 1 hr into testing two functionalities of the target , 
+   *name changing
+   *email changing 
+i sent the requests into burp and done testing for the IDORS, as i only know about them
+
+
+
+
+
+
+
+
+
+
+
+
+
 Update: 5th Dec
 
 Did nothing as of now , just into college exams and all 
