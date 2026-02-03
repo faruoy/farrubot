@@ -5,7 +5,7 @@ Spent around 1 hr into testing two functionalities of the target ,
    *email changing 
 i sent the requests into burp and done testing for the IDORS, as i only know about them
 
-
+ well the target don't pay cash they usually transfer the amount into the wallet , also i have to read their terms and conditions 
 
 
 
