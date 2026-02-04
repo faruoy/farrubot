@@ -1,3 +1,14 @@
+Update: 4th Feb 2026
+	Will continue reading those H1 reports of IDOR , 
+	* There was a report of IDOR in which an Attacker can	
+	modify the external storage connected to the user account	 ,like Gdrive or Dropbox connected with the user account
+	Also this vuln allowed the attacker to delete the 
+	external storage of the Admin also 
+	The end point was defective , so the attacker was able
+	to modify just the contents of External storage
+
+
+
 Update : 3rd Feb 2026
 
 Read 2 IDOR Reports on H1 which was from the Notion site , 
