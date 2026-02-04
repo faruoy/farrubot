@@ -1,7 +1,6 @@
 Update: 4th Feb 2026
 	Will continue reading those H1 reports of IDOR , 
-	* There was a report of IDOR in which an Attacker can	
-	modify the external storage connected to the user account	 ,like Gdrive or Dropbox connected with the user account
+	* There was a report of IDOR in which an Attacker can modify the external storage connected to the user account	 ,  like Gdrive or Dropbox connected with the user account
 	Also this vuln allowed the attacker to delete the 
 	external storage of the Admin also 
 	The end point was defective , so the attacker was able
