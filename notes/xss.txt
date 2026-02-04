@@ -1,3 +1,20 @@
+Update : 3rd Feb 2026
+
+Read 2 IDOR Reports on H1 which was from the Notion site , 
+
+    •2nd report was of some Cloud platform where an attacker can delete the users,Admin's external storage that is synced with the main account , 
+    this was done by just appending the ID in the endpoint to some random id. The bounty for that was around $1500 , 
+
+
+    • 1st report was similar to like this where an unpriviledged user can access the features of premium users , this was comparatively less impactful 
+
+
+
+
+
+
+
+
 Update : 2nd Feb 2026
 
 Spent around 1 hr into testing two functionalities of the target , 
