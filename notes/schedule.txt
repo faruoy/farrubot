@@ -1,3 +1,9 @@
+Update: 15th Feb 2026
+	Goal: To learn and Find XSS vuln and keep on maintaining 	 that 40 60 split ,
+	*Learning from anywhere on web 
+	*Exploiting on BB (an e-commerce website)
+
+
 Update: 4th Feb 2026
 	Will continue reading those H1 reports of IDOR , 
 	* There was a report of IDOR in which an Attacker can modify the external storage connected to the user account	 ,  like Gdrive or Dropbox connected with the user account
