@@ -1,5 +1,5 @@
 Update: 15th Feb 2026
-	Goal: To learn and Find XSS vuln and keep on maintaining 	 that 40 60 split ,
+	Goal: Be consistent in my Deen and to Find XSS vuln and          keep on maintaining that 40 60 split ,
 	*Learning from anywhere on web 
 	*Exploiting on BB (an e-commerce website)
 
