@@ -1,10 +1,9 @@
-Update : 23rd.feb
+Update : 23rd Feb
+	Trying to attain 40 60         split , currently              solving WSA labs.
 
-	I am fasting
+Update : 22nd.feb
 
-
-
-
+	Solved almost 3-4 Labs 	       of DOM XSS , Currently 	      stuck in reflected DOM	     will solve tomorrow.
 
 
 Update : 21th Feb
