@@ -8,4 +8,4 @@ Will try to implement 40% Learning and 60% Hacking: feature based method
 	Learning: Complete more material of XSS and revise IDOR
 	Hacking: Find IDOR and XSS in real Target(now Big Basket)
 
-Result:
+Result: will update on 04th
