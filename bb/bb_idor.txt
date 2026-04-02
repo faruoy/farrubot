@@ -1,0 +1,114 @@
+#Big Basket IDOR Testing 
+     ## POINTERS
+	-
+	-
+	-
+
+## MECHANISM
+	### My account
+ Read : 1.'GET /ui-svc/v1/member/details'
+	-Verified by BBAUTHTOKEN cookie (JWT)
+			 {
+  "member_details" : {
+    "city_name" : "Hyderabad",
+    "mobile_number" : "9505727425",
+    "email" : "haekerone@gmail.com",
+    "pincode" : 500024,
+    "first_name" : "Mohammed ",
+    "last_name" : "Farhan ",
+    "area" : "Chavni",
+    "wallet_balance" : 0.0,
+    "address_1" : "17-8-533/144/5 Baitul Ghouse Building ",
+    "address_2" : "",
+    "newsletter_subscription" : false,
+    "active_order_count" : 0
+  },
+  "show_subscription_icon" : false
+}
+
+Read: 2.'GET /ui-svc/v2/header'			  
+	-Verified by BBAUTHTOKEN cookie (JWT)
+
+"member_info" : {
+    "id" : 73411919,
+    "first_name" : "Mohammed ",
+    "last_name" : "Farhan ",
+    "full_name" : "Mohammed  Farhan ",
+    "language_id" : 1,
+    "mobile_no" : "9505727425",
+    "email" : "haekerone@gmail.com",
+    "ec_ids" : [ 3, 4, 10, 12, 13, 14, 15, 16, 17, 20, 27, 28, 30, 100 ],
+    "newsletter_subscription" : false,
+    "is_vip" : false,
+    "is_institutional" : false,
+    "is_priority_member" : false,
+    "is_exclusive_member" : false,
+    "is_bbstar_member" : false,
+    "member_class" : "T3",
+    "member_state" : "Active",
+    "user_type" : "T3"
+  }
+	
+
+Read: 3. 'GET /ui-svc/v1/door-data'
+      -Validated by '_bb_vid'
+                   'BBAUTHTOKEN' 
+
+"member" : {
+      "id" : 73411919,
+      "first_name" : "Mohammed ",
+      "last_name" : "Farhan ",
+      "full_name" : "Mohammed  Farhan ",
+      "language_id" : 1,
+      "mobile_no" : "9505727425",
+      "email" : "haekerone@gmail.com",
+      "ec_ids" : [ 3, 4, 10, 12, 13, 14, 15, 16, 17, 20, 27, 28, 30, 100 ],
+      "newsletter_subscription" : false,
+      "is_bbstar_member" : false,
+      "is_exclusive_member" : false,
+      "is_vip" : false,
+      "is_institutional" : false,
+      "is_priority_member" : false
+    },
+    "bb2_enabled" : false,
+    "is_5k" : false,
+    "sa_city_id" : 3,
+    "source_id" : 1,
+    "address_type" : 1,
+    "city_name" : "Hyderabad",
+    "city_id" : 3,
+    "city_short_name" : "BLR",
+    "first_name" : "TEST",
+    "last_name" : "ONEE",
+    "contact_no" : "9505727425",
+    "use_contact_no" : false,
+    "bb1_backendcity_id" : 3,
+    "state_name" : "Telangana",
+    "state_slug" : "telangana",
+    "is_current_delivery" : true,
+    "is_partial" : false,
+    "is_mach_disabled" : true,
+    "is_default" : false,
+    "member_class" : "T3",
+    "is_bbd_member" : false
+  }
+
+       
+
+
+
+
+
+
+
+       ## My Basket
+		->
+
+	## My Orders
+		->
+
+	## My Wallet
+		->
+
+
+		
