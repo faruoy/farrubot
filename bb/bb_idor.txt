@@ -103,8 +103,15 @@ Read : 4a.'GET /member/'
 
 
 
-Update: 1. 'POST /member-tdl/v3/member/profile'
+Update:  ### Name change 
+	1. 'POST /member-tdl/v3/member/profile'
 	- Validated by '_bb_vid' & 'BBAUTHTOKEN' & 'csurftoken'
+
+	
+	## Email-change 
+	1. 
+
+
 
 
 
