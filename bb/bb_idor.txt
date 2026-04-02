@@ -94,6 +94,18 @@ Read: 3. 'GET /ui-svc/v1/door-data'
   }
 
        
+Read : 4a.'GET /member/'
+       - Validated by only 'sessionid' cookie  not BB Auth token
+
+       4b.'GET /member/profile'
+       - Validated by only 'sessionid' cookie 
+
+
+
+
+Update: 1. 'POST /member-tdl/v3/member/profile'
+	- Validated by '_bb_vid' & 'BBAUTHTOKEN' & 'csurftoken'
+
 
 
 
