@@ -98,6 +98,9 @@ Read : 4a.'GET /member/'
        - Validated by only 'sessionid' cookie  not BB Auth token
 
        4b.'GET /member/profile'
+       - Validated by only 'sessionid' cookie
+
+Read : 5. 'GET /auth/get_page_data/'
        - Validated by only 'sessionid' cookie 
 
 
@@ -109,7 +112,29 @@ Update:  ### Name change
 
 	
 	## Email-change 
-	1. 
+        
+	READ: 'GET /member/email-addresses/'
+		- Validated by only 'sessionid' cookie 
+
+	1a.
+	UPDATE: 'POST /member/add-email-address/'
+		- Validated by only 'sessionid' cookie & 'csrftoken cookie header'' 
+		-any csrftoken is working 
+
+		body: secondary_email=
+
+        1b. 
+	UPDATE: 'POST /member-tdl/v3/member/profile'
+		-
+
+
+	DELETE: 'POST /member/delete-email-address/'
+		- Validated by only 'sessionid' cookie & 'csrftoken cookie header'and referer header' 
+	        - body: address_id=46559
+	        - its a combination of session id and address_id 
+
+	
+
 
 
 
