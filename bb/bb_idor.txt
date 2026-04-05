@@ -125,7 +125,7 @@ Update:  ### Name change
 
         1b. 
 	UPDATE: 'POST /member-tdl/v3/member/profile'
-		-
+		-validated by 'BBauth','bb vid' and 'csurf tkn'
 
 
 	DELETE: 'POST /member/delete-email-address/'
@@ -134,18 +134,33 @@ Update:  ### Name change
 	        - its a combination of session id and address_id 
 
 	
+## ADDRESS 
+
+	READ: 1. 'GET /member/address-book/'
+		-validated by only 'sessionid' and any user 'BBauth token' req
+
+
+	     2. 'GET /ui-svc/v1/address/list'
+	      - validated by only 'BBAUTHTOKEN' and it's verifying JWT 
+
+	     
+
+	UPDATE:
+
+	1a. set default address:
+		'POST /auth/basket/get-cart-item-difference/'
+		- validated by only 'sessionid' and 'csrf token and cookie'
+		above pop_up
+
+		'POST /set-city/' 
+		- validated by only 'sessionid' and 'csrf token and cookie'
+
+	1b. Update the current address '/member/myAddress/'
+		
 
 
 
-
-
-
-
-
-
-
-
-       ## My Basket
+## My Basket
 		->
 
 	## My Orders
