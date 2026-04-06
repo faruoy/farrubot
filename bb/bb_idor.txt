@@ -173,15 +173,37 @@ Update:  ### Name change
 
 	UPDATE:
 
-	1a. set default address:
+	1. (a)set default address: '/address-book'
 		'POST /auth/basket/get-cart-item-difference/'
 		- validated by only 'sessionid' and 'csrf token and cookie'
 		above pop_up
 
+		NOTE: it's accepting any address-id and returning the corresponding address with the address  
+
 		'POST /set-city/' 
 		- validated by only 'sessionid' and 'csrf token and cookie'
 
-	1b. Update the current address '/member/myAddress/'
+		NOTE: it also accepting other user address id and returning them in the response 
+
+
+	1. (b) set default address '/member/myAddress/'
+
+		-> 'GET /order/v1/migrate-cart/?'
+			-validated by 'BBAUTHTOKEN' and 'bb_cid'
+
+		-> 'POST /order/v1/migrate-cart/'
+			- validated by
+
+		-> 'PUT /member-svc/v2/member/current-delivery-address/'
+			-
+
+
+
+	2. Update the current address '/member/address-book/'
+		'GET /member/address-book/edit/616419840/'
+			-
+
+		
 		
 
 
