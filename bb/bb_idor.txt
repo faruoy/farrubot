@@ -177,7 +177,7 @@ Update:  ### Name change
 		'POST /auth/basket/get-cart-item-difference/'
 		- validated by only 'sessionid' and 'csrf token and cookie'
 		above pop_up
-
+              LEAKAGE?
 		NOTE: it's accepting any address-id and returning the corresponding address with the address  
 
 		'POST /set-city/' 
@@ -201,7 +201,15 @@ Update:  ### Name change
 
 	2. Update the current address '/member/address-book/'
 		'GET /member/address-book/edit/616419840/'
-			-
+			-validated by Session id and BBAUTHTOKEN Of anyone
+
+
+	3. Update the address '/member/myAddress/'
+
+		
+
+
+	
 
 		
 		
