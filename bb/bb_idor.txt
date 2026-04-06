@@ -141,9 +141,35 @@ Update:  ### Name change
 
 
 	     2. 'GET /ui-svc/v1/address/list'
-	      - validated by only 'BBAUTHTOKEN' and it's verifying JWT 
+	      - validated by only 'BBAUTHTOKEN' and it's verifying JWT
 
-	     
+	     3. 'GET /ui-svc/v2/header/'
+	     	-validated by only 'BBAUTHTOKEN' and it's verifying JWT
+
+	     4. 'GET /ui-svc/v1/door-data/'
+	     	-validated by 'BBAUTHTOKEN' and 'bb vid'
+
+
+	##ADD NEW ADDRESS
+	   
+	   1. 'POST /member-svc/v2/address/'
+	   	- validated by 'BBAUTHTOKEN' , 'CSURF' and 'bb_vid'
+
+
+
+	## DELETE ADDRESS 
+
+	  1. 'DELETE /member-svc/v2/address/615812533/'
+	  	-validated by 'BBAUTHTOKEN','bb_vid' and CSURF Header and cookie
+
+		response: '"code_str": "HU4000", "display_msg": "", "msg": "Address 616385676 does not exist with member 73411919", "code": 0, "type": ""'
+
+	  2. 'POST /mapi/v3.4.0/deactivate-address/' 
+	  	body:  [
+				"69989722"
+		       ]
+	  	-validated by cookies 'BBAUTHTOKEN','bb_vid' and 'CSRF token'
+	   
 
 	UPDATE:
 
