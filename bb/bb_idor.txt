@@ -155,6 +155,12 @@ Update:  ### Name change
 	   1. 'POST /member-svc/v2/address/'
 	   	- validated by 'BBAUTHTOKEN' , 'CSURF' and 'bb_vid'
 
+	   2. 'GET /member/address-book/add/' 
+	   	- validated by session id and 'BBAUTHTOKEN'
+
+           3. 'POST /member/address-book/add/'
+	   	- 403: forbidden (This endpoint might be dead)
+
 
 
 	## DELETE ADDRESS 
