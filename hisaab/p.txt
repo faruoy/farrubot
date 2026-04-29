@@ -8,6 +8,11 @@ Gave Rs:1000/- to Ahmed => received Rs:351/-
 		[Spent: Rs  ] [Received: Rs ] 
 	-> Received Rs:151 frm Ahmed (Online)
 	-> Received Rs:200 frm Pappa (Cash)
+	-> Spent Rs:35 cash
+	-> Spent Rs:37 ticket(C)
+	-> Spent Rs:175 food
+	-> Spent Rs:140 travel+
+
 
 
 
