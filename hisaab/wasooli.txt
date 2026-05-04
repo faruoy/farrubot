@@ -1,4 +1,6 @@
 Musaddiq: 100
-Hafiz Ibrahim: 1100
-Farhan:
+Hafiz Ibrahim: 1,100
+Farhan: 1000
 Saad Bhai: 100
+Sarfaraz bhai : 1,000
+Abdul Malik bhai : 1,000/
