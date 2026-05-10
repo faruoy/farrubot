@@ -16,4 +16,6 @@ Sameer : 500
 
 
 Different: 
-Ibrahim bhai : 4,000
+Ibrahim bhai : 4,000 
+Exam fees : 2,810 
+Remaining : 1,190
