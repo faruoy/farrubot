@@ -1,4 +1,6 @@
-Total : 9,700 
+Total : 9,700
+Withdraw : -5,000
+Balance : 4,700
 
 Hafiz Ibrahim: 1,100
 Farhan: 1000
