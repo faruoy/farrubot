@@ -1,6 +1,7 @@
-Total : 9,700
+Total : 9,900
 Withdraw : -5,000
-Balance : 4,900
+-288(Saad)+50+93.70(Malik)
+Balance: 
 
 Hafiz Ibrahim: 1,100
 Farhan: 1000
@@ -20,5 +21,5 @@ Abdul Raheem bhai : 200
 
 Different: 
 Ibrahim bhai : 4,000 
-Exam fees : 2,810 
+Exam fees : -2,810 
 Remaining : 990
