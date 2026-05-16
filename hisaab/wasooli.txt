@@ -1,9 +1,9 @@
 Total : 9,900
 Withdraw : -5,000
 -288(Saad)+50+93.70(Malik)-
-75(Roti)+91-100-2,382+2,000
+75(Roti)+91-100-2,382+2,000+500
 
-New Balance: 2,289+2,000=4,289
+New Balance: 2,289+2,000+500=  4,789
 
 Hafiz Ibrahim: 1,100
 Farhan: 1000
@@ -14,7 +14,11 @@ Nomaan : 2,000
 Rafi Sir and son : 3,000
 Sameer : 500
 Abdul Raheem bhai : 200
+
+
+
 Sher Khan sir & son : 2,000
+Huzaifa : 500
 
 
 
