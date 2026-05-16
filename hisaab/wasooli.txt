@@ -1,8 +1,8 @@
 Total : 9,900
 Withdraw : -5,000
 -288(Saad)+50+93.70(Malik)-
-75(Roti)+91-100
-Balance: 
+75(Roti)+91-100-2,382
+Balance: 2,289 
 
 Hafiz Ibrahim: 1,100
 Farhan: 1000
