@@ -28,7 +28,7 @@ Huzaifa : 500
 
 Different: 
 Ibrahim bhai : 4,000 
-Exam fees : -2,810 
+Exam fees : -2,810 - 200(Rahee)
 Remaining : 990
 
 
@@ -40,4 +40,4 @@ Remaining : 990
 
 
 
-Mine : 4,073+ 990 (Ibrahim Bhai)=5,063 
+Mine : 4,013+ 990 (Ibrahim Bhai)=5,003 
