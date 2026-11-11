@@ -1,3 +1,4 @@
 Morning : 650
 Xuv cab : 880
-Cab : 572
+Cab : 580
+Campa : 160
